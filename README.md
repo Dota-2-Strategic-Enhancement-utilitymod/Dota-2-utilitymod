@@ -76,7 +76,7 @@ Unlike generic scripts or basic vision aids, **UMBRELLA** is built for true tact
 *Post-match replay analysis module showing failed ward coverage and reaction times.*
 
 **3. Real-Time Objective Tracker**  
-![Map Info Panel](https://www.ownedcore.com/forums/attachments/mmo-trading-market/mog-buy-sell-trade/dota-2-buy-sell-trade/80094d1644427441-umbrella-private-hack-dota-2-combo-skinchanger-500-scripts-4jjoey1ijm8-jpg)  
+![Map Info Panel](https://elitehacks.ru/img/cheat/background/6f5b59ac9a3c169911682b22d1f59e90.jpeg)  
 *UI panel displaying Roshan status, rune respawn timers, and ultimate cooldowns.*
 
 ---
